@@ -5,9 +5,10 @@
     android:layout_height="match_parent">
 
  <is.ru.robotcontroller.JoystickActivity
-        android:id="@+id/my_joystick"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginEnd="16dp"/>
+     android:id="@+id/my_joystick"
+     android:layout_width="200dp"
+     android:layout_height="200dp"
+     android:layout_marginEnd="24dp"
+     android:visibility="visible" />
 
 </LinearLayout>
